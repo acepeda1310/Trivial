@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivial</string>
+    <string name="pregunta">¿Cual es la capital de España?</string>
+    <string name="acierto">Has acertado</string>
+    <string name="fallo">Has fallado</string>
+    <string name="defecto"> </string>
+</resources>
